@@ -1,0 +1,6 @@
+{
+  "name": "Vatapi — Smart Heritage & Civic Tourism Platform",
+  "description": "Unified smart heritage, civic grievance ledger, and sustainable cultural tourism platform for Badami, Pattadakal, Aihole, and Bagalkote district.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
